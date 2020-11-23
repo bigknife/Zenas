@@ -1,3 +1,11 @@
 # Zenas's Blog
 
-<a href="totok://payby/open-iap-cashdesk?ft=xxx"> ToTok Notify Test </a>
+## Sample:
+
+1. totok://payby/open-iap-cashdesk?ft=xxx
+
+    <a href="totok://payby/open-iap-cashdesk?ft=xxx">Click: ToTok Notify Test </a>
+
+2. payby://payment/open-iap-cashdesk?ft=134
+
+    <a href="payby://payment/open-iap-cashdesk?ft=134">Click: ToTok Notify Test </a>
